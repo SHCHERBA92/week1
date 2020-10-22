@@ -1,8 +1,7 @@
 {
   "headers":{
     "/*":{
-      "X-Author": digital_signal,
-      "Access-Control-Allow-Origin": *
+      "X-Author": digital_signal
     }
   }
   
