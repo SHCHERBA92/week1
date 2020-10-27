@@ -4,6 +4,10 @@
       "X-Author": "digital_signal",
       "Access-Control-Allow-Origin": "*"
     }
+    "/sample/*":{
+      "X-Author": "digital_signal",
+      "Access-Control-Allow-Origin": "*"
+    }
   }
   
 }
